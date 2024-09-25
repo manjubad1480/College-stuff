@@ -2,7 +2,7 @@
 #include<unistd.h>
 int main()
 {
-printf("Likhitha BC\nAIT24BEAI061");
+printf("Manjunath BC\nAIT24BEAI073");
 char *cmnd="ls";
 char *arg_list[]={"ls","-1",NULL};
 printf("before calling execvp()\n");
