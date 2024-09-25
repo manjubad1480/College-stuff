@@ -4,7 +4,7 @@
 #include<sys/wait.h>
 int main()
 {
-printf("Likhitha BC\nAIT24BEAI061");
+printf("Manjunath BC\nAIT24BEAI073");
 pid_t pid;
 pid=fork();
 if(pid<0)
